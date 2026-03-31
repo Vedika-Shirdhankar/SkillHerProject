@@ -1,16 +1,109 @@
-# React + Vite
+# 🌸 SkillHer – Empowering Women Through Skills
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
 
-Currently, two official plugins are available:
+SkillHer is a platform designed to empower women by providing access to skill development resources, learning opportunities, and career guidance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of this project is to bridge the gap between talent and opportunity by helping women learn new skills, improve existing ones, and become financially independent.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* Skill-based learning resources and modules
+* User-friendly interface for easy navigation
+* Personalized learning experience
+* Career guidance and growth support
+* Responsive design for accessibility on all devices
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+* **Frontend:** React.js
+* **Backend:** Node.js / Express (or Flask if used)
+* **Database:** MongoDB / MySQL
+* **Tools:** Git, GitHub
+
+---
+
+## ⚙️ How It Works
+
+1. Users sign up or log in to the platform.
+2. They can explore various skill categories.
+3. Learning materials and resources are provided.
+4. Users can track their progress.
+5. The platform helps guide users toward career opportunities.
+
+---
+
+## 🎯 Objective
+
+The main objective of SkillHer is to:
+
+* Promote skill development among women
+* Encourage financial independence
+* Provide accessible learning resources
+* Support career growth and confidence building
+
+---
+
+## 💻 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <your-repo-link>
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd SkillHerProject
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the project:
+
+   ```bash
+   npm start
+   ```
+
+---
+
+## ▶️ Usage
+
+* Create an account or log in
+* Browse available skills and courses
+* Start learning and track your progress
+* Use the platform for career guidance
+
+---
+
+## 🔮 Future Improvements
+
+* Add real-time mentorship support
+* Introduce certification system
+* Integrate job and internship opportunities
+* Improve UI/UX for better user experience
+
+---
+
+## 👥 Contributors
+
+* Vedika
+* Piyusha
+* Trrishaa
+
+---
+
+## ✅ Conclusion
+
+SkillHer is a step toward empowering women through education and skill development. By providing accessible resources and guidance, the platform aims to create more opportunities and support personal and professional growth.
+
+---
